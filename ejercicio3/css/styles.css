@@ -1,0 +1,100 @@
+body{
+	background-color: #BCBBBB;
+}
+
+.main{
+	width: 800px;
+	height: 630px;
+	background-color: #ffffff;
+	margin: 0 auto;
+}
+
+.principal{
+	width: 660px;
+	height: 110px;
+	margin: 0 auto;
+}
+.imagen{
+	float: left;
+	margin-top: 30px;
+}
+
+.titulo{
+	float: right;
+	margin-top: 30px;
+}
+
+.titulo h1,
+.titulo h6{
+	margin: 0 auto;
+	text-align: right;	
+}
+
+.franja{
+	width: 660px;
+	height: 3px;
+	background-color: #BCBBBB;
+	margin: 0 auto;
+}
+
+.imagen2{
+	width: 560px;
+	margin: 0 auto;
+}
+
+.subtitulo{
+	width: 660px;
+	margin: 0 auto;
+	color: #BCBBBB;
+}
+
+.imagenes1{
+	width: 182px;
+	margin-left: 70px;
+	float: left;
+	text-align: center;
+}
+
+.imagenes1 h2{
+	margin: 0 auto;
+	color: #747704;
+}
+
+.imagenes1 a{
+	font-size: 0.7em;
+	color: #BCBBBB;
+}
+
+.imagenes2{
+	width: 182px;
+	margin-left: 62px;
+	float: left;
+	text-align: center;
+}
+
+.imagenes2 h2{
+	margin: 0 auto;
+	color: #747704;
+}
+
+.imagenes2 a{
+	font-size: 0.7em;
+	color: #BCBBBB;
+}
+
+.imagenes3{
+	width: 182px;
+	margin-right: 70px;
+	float: right;
+	text-align: center;
+}
+
+.imagenes3 h2{
+	margin: 0 auto;
+	color: #747704;
+}
+
+.imagenes3 a{
+	font-size: 0.7em;
+	color: #BCBBBB;
+}
